@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋 Eu sou [Seu Nome]
 
-<!--
-**RodrigoCastroMoura/RodrigoCastroMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software com experiência em **C#**, **Python** e **React**.  
+🚀 Apaixonado por criar soluções eficientes e escaláveis.  
+📚 Sempre aprendendo novas tecnologias como **Go** e **Arquitetura de Software**.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias:
+- **Linguagens:** C#, Python, Go
+- **Frontend:** React, HTML, CSS, Bootstrap
+- **Backend:** Node.js, .NET, Spring
+- **Banco de Dados:** SQL Server, MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Minhas Estatísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoCastroMoura&show_icons=true&theme=dark)
+
+### 🌐 Onde me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-de-castro-moura-2a5a5324)
+
