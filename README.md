@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Rodrigo
 
-💻 Desenvolvedor de Software com experiência em **C#**, **Python** e **React**.  
+💻 Desenvolvedor de Software com experiência em **C#**, **Python**, **React** e **Angular**.  
 🚀 Apaixonado por criar soluções eficientes e escaláveis.  
 📚 Sempre aprendendo novas tecnologias como **Go** e **Arquitetura de Software**.
 
