@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou Rodrigo
 
 💻 Desenvolvedor de Software com experiência em **C#**, **Python** e **React**.  
 🚀 Apaixonado por criar soluções eficientes e escaláveis.  
